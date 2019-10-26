@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="S20L16 - Importing a class into a JSP file">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="S20L16_-_Importing_a_class_into_a_JSP_file"/>
+        <property name="java-output-path" value="/S20L16 - Importing a class into a JSP file/build/classes"/>
+    </wb-module>
+</project-modules>
